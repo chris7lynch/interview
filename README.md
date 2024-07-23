@@ -30,7 +30,7 @@ Your task is to design and implement a set of automated tests for a simple featu
 
 - **Repository**: Push your code to a private GitHub repository and invite chris7lynch as a collaborator.
 - **README**: Ensure your README file is clear, concise, and contains all the necessary information to understand and run your tests.
-- **Deadline**: Submit your completed assessment within a week of receiving it.
+- **Deadline**: Submit your completed assessment within 3 days receiving it.
 
 ## Evaluation Criteria
 
