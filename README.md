@@ -39,5 +39,6 @@ Your submission will be evaluated based on the following criteria:
 - **Code Quality**: Code is clean, well-organized, and documented.
 - **Test Coverage**: Tests cover a wide range of scenarios, including happy paths and edge cases.
 - **Documentation**: The README is comprehensive and easy to follow.
+- **Ability to discuss**: Fully able to talk through and explain all aspects of each of the submission artifacts. 
 
 Thank you for participating in this assessment. We look forward to reviewing your submission. Good luck!
