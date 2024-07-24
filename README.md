@@ -1,6 +1,6 @@
-# Take Home Assessment for Testing Automation Engineer
+# Take Home Assessment for Lead Test Automation Engineer
 
-Welcome to the take-home assessment for the Testing Automation Engineer position. This document outlines the acceptance criteria for the feature you will work on, along with the expectations for how it should be completed and submitted.
+Welcome to the take-home assessment for the Lead Test Automation Engineer position. This document outlines the acceptance criteria for the feature you will work on, along with the expectations for how it should be completed and submitted.
 
 ## Objective
 
@@ -14,7 +14,7 @@ Your task is to design and implement a set of automated tests for a simple featu
    - Behavioral tests should test the logic according to the feature gherkin
    - Ensure the tests are organized into logical groups based on the type of test and when you would run them.  e.g. Unit Tests vs Integration Tests
 
-2. **Tools and Technologies**: You are free to use Java, C#, JavaScript, or Python, or any Generative AI tooling to accomplish this task.
+2. **Tools and Technologies**: You are free to use the language of your choice from Java, C#, JavaScript, or Python, as well as any Generative AI tooling to accomplish this task.
    - Ensure the testing tools you use are free and open source.
    - Provide documentation on how to run your test suite against your application.
    - *Bonus* provide a working pipeline to execute your automated tests agianst the code using GitHub Actions.
